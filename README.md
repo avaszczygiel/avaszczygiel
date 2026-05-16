@@ -1,6 +1,6 @@
 # Hi, my name is Ava!
 
-I'm a data and business analyst focused on turning raw data into clear, actionable insights. I work across SQL, Python, and Tableau; from querying databases to building interactive dashboards that help stakeholders make better decisions.
+I'm a data and business analyst focused on turning raw data into clear, actionable insights. I work across SQL, Python, and Tableau, from querying databases to building interactive dashboards that help stakeholders make better decisions.
 
 ---
 
@@ -10,9 +10,9 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Jupyter-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white)
 
-- **SQL** — Aggregations, multi-table JOINs, subqueries, date functions, window functions
-- **Python** — Data cleaning, exploratory analysis, visualization (Pandas, Matplotlib, Seaborn)
-- **Tableau** — Interactive dashboards, KPI tracking, trend analysis, storytelling with data
+- **SQL:** Aggregations, multi-table JOINs, subqueries, date functions, window functions
+- **Python:** Data cleaning, exploratory analysis, visualization (Pandas, Matplotlib, Seaborn)
+- **Tableau:** Interactive dashboards, KPI tracking, trend analysis, storytelling with data
 
 ---
 
@@ -34,7 +34,7 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 
 | Project | Description | Repo |
 |---|---|---|
-| 🏥 **Cedar Valley Medical Group** | Queried a clinic's operational database to answer 8 business questions for an incoming COO — covering patient demographics, appointment trends, insurance coverage, and doctor performance. | [View Project]( https://github.com/avaszczygiel/Cedar-Valley-Medical-SQL ) |
+| 🏥 **Cedar Valley Medical Group** | Queried a clinic's operational database to answer 8 business questions for an incoming COO, covering patient demographics, appointment trends, insurance coverage, and doctor performance. | [View Project](./cedar-valley-medical-sql) |
 
 ---
 
@@ -46,5 +46,6 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 
 ## 📫 Let's Connect
 
-[![LinkedIn]( www.linkedin.com/in/ava-szczygiel)
+[LinkedIn](https://www.linkedin.com/in/ava-szczygiel/) - Let's connect!
+
 
