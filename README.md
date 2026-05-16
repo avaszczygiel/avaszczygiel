@@ -46,5 +46,5 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 
 ## 📫 Let's Connect
 
-[![LinkedIn]( https://www.linkedin.com/in/ava-szczygiel/ )
+[![LinkedIn]( www.linkedin.com/in/ava-szczygiel)
 
