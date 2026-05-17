@@ -40,12 +40,15 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 
 ## 🐍 Python Projects
 
-*Coming soon*
+| Project | Description | Repo |
+|---|---|---|
+| 🐍 **Python Data Analytics and Text Mining** | 10-notebook progression from Python fundamentals through advanced NLP. Topics include Pandas, data cleaning, visualization, regex, TF-IDF, sentiment analysis, topic modeling, and word embeddings. | [View Repo](https://github.com/avaszczygiel/python-data-analytics-coursework) |
 
 ---
 
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ava-szczygiel/) - Let's connect!
+
 
 
