@@ -34,7 +34,7 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 
 | Project | Description | Repo |
 |---|---|---|
-| 🏥 **Cedar Valley Medical Group** | Queried a clinic's operational database to answer 8 business questions for an incoming COO, covering patient demographics, appointment trends, insurance coverage, and doctor performance. | [View Project](./cedar-valley-medical-sql) |
+| 🏥 **Cedar Valley Medical Group** | Queried a clinic's operational database to answer 8 business questions for an incoming COO, covering patient demographics, appointment trends, insurance coverage, and doctor performance. | [View Project](https://github.com/avaszczygiel/cedar-valley-medical-sql) |
 
 ---
 
@@ -49,6 +49,7 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ava-szczygiel/) - Let's connect!
+
 
 
 
