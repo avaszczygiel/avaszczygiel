@@ -1,6 +1,6 @@
 # Hi, my name is Ava!
 
-I'm a data and business analyst focused on turning raw data into clear, actionable insights. I work across SQL, Python, and Tableau, from querying databases to building interactive dashboards that help stakeholders make better decisions.
+I am a data and business analyst focused on turning raw data into clear, actionable insights. I work across SQL, Python, and Tableau, from querying databases to building interactive dashboards that help stakeholders make better decisions.
 
 ---
 
@@ -35,6 +35,11 @@ I'm a data and business analyst focused on turning raw data into clear, actionab
 | Project | Description | Repo |
 |---|---|---|
 | 🏥 **Cedar Valley Medical Group** | Queried a clinic's operational database to answer 8 business questions for an incoming COO, covering patient demographics, appointment trends, insurance coverage, and doctor performance. | [View Project](https://github.com/avaszczygiel/cedar-valley-medical-sql) |
+| 🛒 **Consumer Behavior and Revenue Analysis** | Analyzed purchasing behavior across 500+ customers, 1,500 orders, and 4 product categories to surface regional revenue distribution, repeat customer rates, and top-performing product categories. | [View Project](https://github.com/avaszczygiel/Consumer-Behavior-SQL-Analysis) |
+| 🔍 **Retail SQL Query Fundamentals** | Applied core querying techniques to a retail operations database, covering data retrieval, multi-column sorting, conditional filtering, and aggregation across customers, orders, products, and vendors. | [View Project](https://github.com/avaszczygiel/Retail-SQL-Query-Fundamentals) |
+| 🎯 **Retail SQL Advanced Filtering** | Built on query fundamentals by applying wildcard pattern matching, calculated fields, column aliasing, and date functions to simulate real business scenarios including promotional pricing and time-based order analysis. | [View Project](https://github.com/avaszczygiel/Retail-SQL-Advanced-Filtering) |
+| 🔗 **Retail SQL Subqueries and Joins** | Applied intermediate-to-advanced techniques including IN subqueries, correlated subqueries, INNER JOINs, and LEFT OUTER JOINs to answer business questions about customer order behavior and product sales volume. | [View Project](https://github.com/avaszczygiel/Retail-SQL-Subqueries-Joins) |
+| 🏦 **Banking SQL Data Manipulation** | Applied advanced SQL to a banking database covering multi-table joins (INNER, LEFT, RIGHT), UNION operations, and full DML including INSERT, UPDATE, DELETE, and ACID-compliant transaction control with SAVEPOINT and ROLLBACK. | [View Project](https://github.com/avaszczygiel/Banking-SQL-Data-Manipulation) |
 
 ---
 
